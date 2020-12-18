@@ -1,4 +1,4 @@
-<div align=center> #### Hi there, I'm Thiago Gomes :raising_hand_man: </div>
+<div align=center> <h1> Hi there, I'm Thiago Gomes :raising_hand_man: </h1> </div>
 
 <div align=center>
     <a href="https://www.linkedin.com/in/th14g0d3v/">
@@ -7,8 +7,8 @@
     <img src="https://img.shields.io/badge/Gmail-th14g0d3v@gmail.com-red"/>
 </div>
 
-<div align=center>
-## I'm a Programmer
+<div align=left>
+<h3> I'm a Programmer</h3>
 
 - I am excited about the possibility of bringing ideas to life...
 
