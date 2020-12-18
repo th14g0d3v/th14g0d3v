@@ -15,10 +15,10 @@
 <div align=center>
 <h3 align=center> I'm a Programmer </h3>
 
-<p> I am excited about the possibility of bringing ideas to life and </p>
-<p> 🔭 I’m currently working on my own :file_folder: projects, look at my :card_index_dividers: repositories. </p>
-<p> 🌱 I’m currently :man_technologist: learning, :busts_in_silhouette: collaborating, and :speaking_head: help with ReactJS, NodeJS, React Native, and Typescript. </p>
-<p> 💬 Ask me about :penguin: Linux and :robot: Watson Assistant Chatbot. </p>
+<span> I am excited about the possibility of bringing ideas to life and </span>
+<span> 🔭 I’m currently working on my own :file_folder: projects, look at my :card_index_dividers: repositories. </span>
+<span> 🌱 I’m currently :man_technologist: learning, :busts_in_silhouette: collaborating, and :speaking_head: help with ReactJS, NodeJS, React Native, and Typescript. </span>
+<span> 💬 Ask me about :penguin: Linux and :robot: Watson Assistant Chatbot. </span>
 
 <br/>
 <hr/>
@@ -54,3 +54,6 @@
 
 <p> <img align="center" alt="Thiago's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th14g0d3v&theme=chartreuse-dark&show_icons=true&hide_border=true" /> </p>
 </div>
+
+<br/>
+<hr/>
