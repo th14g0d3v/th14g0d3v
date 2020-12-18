@@ -38,5 +38,5 @@
 
 <h3 align=center> GitHub Stats </h3>
 
-<img align="center" alt="Thiago's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=th14g0d3v&show_icons=true&hide_border=true&thme=dracula" />
+<img align="center" alt="Thiago's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=th14g0d3v&theme=chartreuse-dark&show_icons=true&hide_border=true" />
 </div>
