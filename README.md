@@ -15,10 +15,10 @@
 <div align=center>
 <h3 align=center> I'm a Programmer </h3>
 
-- I am excited about the possibility of bringing ideas to life and
-- 🔭 I’m currently working on my own :file_folder: projects, look at my :card_index_dividers: repositories.
-- 🌱 I’m currently :man_technologist: learning, :busts_in_silhouette: collaborating, and :speaking_head: help with ReactJS, NodeJS, React Native, and Typescript.
-- 💬 Ask me about :penguin: Linux and :robot: Watson Assistant Chatbot.
+I am excited about the possibility of bringing ideas to life and
+🔭 I’m currently working on my own :file_folder: projects, look at my :card_index_dividers: repositories.
+🌱 I’m currently :man_technologist: learning, :busts_in_silhouette: collaborating, and :speaking_head: help with ReactJS, NodeJS, React Native, and Typescript.
+💬 Ask me about :penguin: Linux and :robot: Watson Assistant Chatbot.
 
 <br/>
 <hr/>
@@ -38,7 +38,6 @@
 <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="center" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br/>
 <br/>
 <br/>
 <br/>
