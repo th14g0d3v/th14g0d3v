@@ -1,5 +1,5 @@
 <div align=center>
-# Hi there, I'm Thiago Gomes :raising_hand_man:
+<h1> Hi there, I'm Thiago Gomes :raising_hand_man: </h1>
 </div>
 
 <div align=center>
@@ -10,18 +10,14 @@
 </div>
 
 <div align=left>
-## I'm a Programmer
+<h2> I'm a Programmer </h2>
 
 - I am excited about the possibility of bringing ideas to life and
 - 🔭 I’m currently working on my own :file_folder: projects, look at my :card_index_dividers: repositories.
 - 🌱 I’m currently :man_technologist: learning, :busts_in_silhouette: collaborating, and :speaking_head: help with ReactJS, NodeJS, React Native, and Typescript.
 - 💬 Ask me about :penguin: Linux and :robot: Watson Assistant Chatbot.
 
-### Connect with me:
-
-[<img align="left" alt="Thiago Gomes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/th14g0d3v/"></a>]
-
-<br />
+---
 
 ### Languages and Tools:
 
@@ -37,9 +33,6 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
-<br />
-<br />
 
 ---
 
