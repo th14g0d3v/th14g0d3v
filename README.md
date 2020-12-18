@@ -10,7 +10,7 @@
 </div>
 
 <div align=left>
-<h2> I'm a Programmer </h2>
+<h2 align=center> I'm a Programmer </h2>
 
 - I am excited about the possibility of bringing ideas to life and
 - 🔭 I’m currently working on my own :file_folder: projects, look at my :card_index_dividers: repositories.
@@ -19,7 +19,7 @@
 
 ## <br/>
 
-### Languages and Tools:
+<h3 align=center> I'm a Programmer </h3>
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
@@ -36,7 +36,7 @@
 
 ## <br/>
 
-<summary>GitHub Stats</summary>
+<h3 align=center> GitHub Stats </h3>
 
   <img align="center" alt="Thiago's GitHub Stats" src="https://github-readme-stats.th14g0d3v.vercel.app/api?username=th14g0d3v&show_icons=true&hide_border=true" />
 </div>
