@@ -1,4 +1,6 @@
-<div align=center> <h1> Hi there, I'm Thiago Gomes :raising_hand_man: </h1> </div>
+<div align=center>
+# Hi there, I'm Thiago Gomes :raising_hand_man:
+</div>
 
 <div align=center>
     <a href="https://www.linkedin.com/in/th14g0d3v/">
@@ -8,18 +10,16 @@
 </div>
 
 <div align=left>
-<h3> I'm a Programmer</h3>
+## I'm a Programmer
 
-- I am excited about the possibility of bringing ideas to life...
-
-- and
+- I am excited about the possibility of bringing ideas to life and
 - 🔭 I’m currently working on my own :file_folder: projects, look at my :card_index_dividers: repositories.
 - 🌱 I’m currently :man_technologist: learning, :busts_in_silhouette: collaborating, and :speaking_head: help with ReactJS, NodeJS, React Native, and Typescript.
 - 💬 Ask me about :penguin: Linux and :robot: Watson Assistant Chatbot.
 
 ### Connect with me:
 
-[<img align="left" alt="Thiago Gomes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/th14g0d3v/">]
+[<img align="left" alt="Thiago Gomes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/th14g0d3v/"></a>]
 
 <br />
 
@@ -43,7 +43,7 @@
 
 ---
 
-<summary>:zap: GitHub Stats</summary>
+<summary>GitHub Stats</summary>
 
   <img align="center" alt="Thiago's GitHub Stats" src="https://github-readme-stats.th14g0d3v.vercel.app/api?username=th14g0d3v&show_icons=true&hide_border=true" />
 </div>
