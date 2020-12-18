@@ -40,8 +40,6 @@
 
 <h3 align=center> GitHub Stats </h3>
 
-<div align=center>
-<img align="center" alt="Thiago's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=th14g0d3v&theme=chartreuse-dark&show_icons=true&hide_border=true" />
-<img align="center" alt="Thiago's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th14g0d3v&theme=chartreuse-dark&show_icons=true&hide_border=true" />
-</div>
+<p> <img align="center" alt="Thiago's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=th14g0d3v&theme=chartreuse-dark&show_icons=true&hide_border=true" /> </p>
+<p> <img align="center" alt="Thiago's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th14g0d3v&theme=chartreuse-dark&show_icons=true&hide_border=true" /> </p>
 </div>
