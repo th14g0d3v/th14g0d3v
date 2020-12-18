@@ -15,10 +15,10 @@
 <div align=center>
 <h3 align=center> I'm a Programmer </h3>
 
-I am excited about the possibility of bringing ideas to life and
-🔭 I’m currently working on my own :file_folder: projects, look at my :card_index_dividers: repositories.
-🌱 I’m currently :man_technologist: learning, :busts_in_silhouette: collaborating, and :speaking_head: help with ReactJS, NodeJS, React Native, and Typescript.
-💬 Ask me about :penguin: Linux and :robot: Watson Assistant Chatbot.
+<p> I am excited about the possibility of bringing ideas to life and </p>
+<p> 🔭 I’m currently working on my own :file_folder: projects, look at my :card_index_dividers: repositories. </p>
+<p> 🌱 I’m currently :man_technologist: learning, :busts_in_silhouette: collaborating, and :speaking_head: help with ReactJS, NodeJS, React Native, and Typescript. </p>
+<p> 💬 Ask me about :penguin: Linux and :robot: Watson Assistant Chatbot. </p>
 
 <br/>
 <hr/>
