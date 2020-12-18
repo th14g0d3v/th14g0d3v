@@ -9,6 +9,9 @@
     <img src="https://img.shields.io/badge/Gmail-th14g0d3v@gmail.com-red"/>
 </div>
 
+<br/>
+## <br/>
+
 <div align=left>
 <h2 align=center> I'm a Programmer </h2>
 
@@ -17,6 +20,7 @@
 - 🌱 I’m currently :man_technologist: learning, :busts_in_silhouette: collaborating, and :speaking_head: help with ReactJS, NodeJS, React Native, and Typescript.
 - 💬 Ask me about :penguin: Linux and :robot: Watson Assistant Chatbot.
 
+<br/>
 ## <br/>
 
 <h3 align=center> Languages and Tools </h3>
@@ -36,11 +40,15 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </div>
 
+<br/>
 ## <br/>
 
 <h3 align=center> GitHub Stats </h3>
 
 <p> <img align="center" alt="Thiago's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=th14g0d3v&theme=chartreuse-dark&show_icons=true&hide_border=true" /> </p>
+
+<br/>
+## <br/>
 
 <h3 align=center> GitHub GitHub Top Languages </h3>
 
