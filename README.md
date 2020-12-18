@@ -10,10 +10,10 @@
 </div>
 
 <br/>
-## <br/>
+<hr/>
 
 <div align=left>
-<h2 align=center> I'm a Programmer </h2>
+<h3 align=center> I'm a Programmer </h3>
 
 - I am excited about the possibility of bringing ideas to life and
 - 🔭 I’m currently working on my own :file_folder: projects, look at my :card_index_dividers: repositories.
@@ -21,7 +21,7 @@
 - 💬 Ask me about :penguin: Linux and :robot: Watson Assistant Chatbot.
 
 <br/>
-## <br/>
+<hr/>
 
 <h3 align=center> Languages and Tools </h3>
 
@@ -41,14 +41,14 @@
 </div>
 
 <br/>
-## <br/>
+<hr/>
 
 <h3 align=center> GitHub Stats </h3>
 
 <p> <img align="center" alt="Thiago's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=th14g0d3v&theme=chartreuse-dark&show_icons=true&hide_border=true" /> </p>
 
 <br/>
-## <br/>
+<hr/>
 
 <h3 align=center> GitHub GitHub Top Languages </h3>
 
