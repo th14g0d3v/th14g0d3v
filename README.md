@@ -13,7 +13,7 @@
 <hr/>
 
 <div align=center>
-<h3 align=center> I'm a Programmer </h3>
+<h3 align=center> I'm Programmer </h3>
 
 <span> I am excited about the possibility of bringing ideas to life and </span><br/>
 <span> 🔭 I’m currently working on my own :file_folder: projects, look at my :card_index_dividers: repositories. </span><br/>
