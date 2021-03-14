@@ -5,7 +5,7 @@
 		</a>
 		<img src="https://img.shields.io/badge/Gmail-th14g0d3v@gmail.com-red"/>
 	</h1>	
-</div><br/><hr/>
+</div><br/>
 
 <div align=center>
 	<h3> I'm a Programmer </h3>
@@ -13,7 +13,7 @@
 	<span> 🔭 I’m currently working on my own :file_folder: projects, look at my :card_index_dividers: repositories. </span><br/>
 	<span> 🌱 I’m currently :man_technologist: learning, :busts_in_silhouette: collaborating, and :speaking_head: help with React, Node, Flutter, and Typescript. </span><br/>
 	<span> 💬 Ask me about :penguin: Linux and :robot: Watson Assistant Chatbot. </span>
-</div><br/><br/><hr/>
+</div><hr/>
 
 <div align=center>
 	<h3> Languages and Tools </h3>
