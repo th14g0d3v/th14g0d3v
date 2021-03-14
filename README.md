@@ -4,6 +4,7 @@
 			<img src="https://img.shields.io/badge/LinkedIn-Thiago%20Gomes-blue"/>
 		</a>
 		<img src="https://img.shields.io/badge/Gmail-th14g0d3v@gmail.com-red"/>
+		<p><a href="#-CODE"><img src="https://github.com/th14g0d3v/th14g0d3v/raw/master/public/code.png" alt="alt text" title="image" style="max-width:100%;"></a></p>
 	</h1>	
 </div><br/>
 
