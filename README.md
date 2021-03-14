@@ -1,9 +1,10 @@
 <div align=center>
-	<h2> Hi there, I'm Thiago Gomes :raising_hand_man: </h2>
-	<a href="https://www.linkedin.com/in/th14g0d3v/">
-		<img src="https://img.shields.io/badge/LinkedIn-Thiago%20Gomes-blue"/>
-	</a>
-	<img src="https://img.shields.io/badge/Gmail-th14g0d3v@gmail.com-red"/>
+	<h1> Hi there, I'm Thiago Gomes :raising_hand_man:
+		<a href="https://www.linkedin.com/in/th14g0d3v/">
+			<img src="https://img.shields.io/badge/LinkedIn-Thiago%20Gomes-blue"/>
+		</a>
+		<img src="https://img.shields.io/badge/Gmail-th14g0d3v@gmail.com-red"/>
+	</h1>	
 </div><br/><hr/>
 
 <div align=center>
