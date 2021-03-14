@@ -1,5 +1,5 @@
 <div align=center>
-	<h1> Hi there, I'm Thiago Gomes :raising_hand_man: </h1><br/>
+	<h3> Hi there, I'm Thiago Gomes :raising_hand_man: </h3>
 	<a href="https://www.linkedin.com/in/th14g0d3v/">
 		<img src="https://img.shields.io/badge/LinkedIn-Thiago%20Gomes-blue"/>
 	</a>
