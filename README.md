@@ -21,7 +21,7 @@
 		<a href="https://hubpages.com/@th14g0d3v">
 			<img src="https://img.shields.io/badge/Hubpages-blue"/>
 		</a>
-		<a href="https://accounts.google.com">
+		<a href="https://mail.google.com">
 			<img src="https://img.shields.io/badge/th14g0d3v@gmail.com-red"/>
 		</a>
 		<a href="#-CODE"><img src="https://github.com/th14g0d3v/th14g0d3v/raw/master/public/welcome.png" alt="alt text" title="image" style="max-width:100%;"></a>
