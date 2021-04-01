@@ -10,8 +10,20 @@
 			<img src="https://img.shields.io/badge/Reddit-blue"/>
 		</a>
 		<a href="https://www.instagram.com/th14g0d3v">
-			<img src="https://img.shields.io/badge/Instagram-Thiago%20Gomes-blue"/>
+			<img src="https://img.shields.io/badge/Instagram-blue"/>
 		</a>
+		<a href="https://twitter.com/th14g0d3v">
+			<img src="https://img.shields.io/badge/Twitter-blue"/>
+		</a>
+		<a href="https://br.fiverr.com/th14g0d3v">
+			<img src="https://img.shields.io/badge/Fiverr-blue"/>
+		</a>
+		<a href="https://br.fiverr.com/th14g0d3v">
+			<img src="https://img.shields.io/badge/Fiverr-blue"/>
+		</a>
+		<a href="https://hubpages.com/@th14g0d3v">
+			<img src="https://img.shields.io/badge/Hubpages-blue"/>
+		</a>		
 		<img src="https://img.shields.io/badge/th14g0d3v@gmail.com-red"/>
 		<a href="#-CODE"><img src="https://github.com/th14g0d3v/th14g0d3v/raw/master/public/welcome.png" alt="alt text" title="image" style="max-width:100%;"></a>
 	</h1>	
