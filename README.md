@@ -3,16 +3,16 @@
 		<a href="https://www.linkedin.com/in/th14g0d3v/">
 			<img src="https://img.shields.io/badge/LinkedIn-blue"/>
 		</a>
-		<a href="https://www.linkedin.com/in/th14g0d3v/">
-			<img src="https://img.shields.io/badge/LinkedIn-Thiago%20Gomes-blue"/>
+		<a href="https://www.facebook.com/th14g0d3v">
+			<img src="https://img.shields.io/badge/Facebook-blue"/>
 		</a>
-		<a href="https://www.linkedin.com/in/th14g0d3v/">
-			<img src="https://img.shields.io/badge/LinkedIn-Thiago%20Gomes-blue"/>
+		<a href="https://www.reddit.com/user/th14g0d3v">
+			<img src="https://img.shields.io/badge/Reddit-blue"/>
 		</a>
-		<a href="https://www.linkedin.com/in/th14g0d3v/">
-			<img src="https://img.shields.io/badge/LinkedIn-Thiago%20Gomes-blue"/>
+		<a href="https://www.instagram.com/th14g0d3v">
+			<img src="https://img.shields.io/badge/Instagram-Thiago%20Gomes-blue"/>
 		</a>
-		<img src="https://img.shields.io/badge/Gmail-th14g0d3v@gmail.com-red"/>
+		<img src="https://img.shields.io/badge/th14g0d3v@gmail.com-red"/>
 		<a href="#-CODE"><img src="https://github.com/th14g0d3v/th14g0d3v/raw/master/public/welcome.png" alt="alt text" title="image" style="max-width:100%;"></a>
 	</h1>	
 </div><br/>
