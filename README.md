@@ -23,7 +23,7 @@
 		</a>
 		<a href="https://mail.google.com">
 			<img src="https://img.shields.io/badge/th14g0d3v@gmail.com-red"/>
-		</a> <br/>
+		</a> <br/> <br/>
 		<a href="#-CODE"><img src="https://github.com/th14g0d3v/th14g0d3v/raw/master/public/welcome.png" alt="alt text" title="image" style="max-width:100%;"></a>
 	</h1>	
 </div><br/>
